@@ -1,0 +1,16 @@
+{
+	"name": "m8s6-rebound",
+	"version": "1.0.0",
+	"description": "",
+	"main": "scripts.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"crypto-random-string": "^5.0.0"
+	}
+}
